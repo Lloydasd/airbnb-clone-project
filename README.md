@@ -110,3 +110,26 @@ A successful project requires clear definition of team roles and responsibilitie
 | **Scrum Master** | Facilitates agile processes, organizes sprints and meetings, removes blockers for the team, and promotes collaboration. |
 
 Each role plays a vital part in ensuring the project is delivered on time, meets quality standards, and provides a seamless experience for end users.
+
+
+##Planned Components
+###Navbar
+-Logo
+-Search bar
+-User navigation
+-Responsive menu
+
+###Property Card
+-Property image
+-Basic details (price, location, rating)
+-Favorite button
+-Responsive layout
+
+###Footer
+-Site links
+-Company information
+-Social media links
+-Copyright information
+
+Each component will be designed for reusability and consistency across the application.
+
