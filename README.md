@@ -69,3 +69,27 @@ Clear navigation, intuitive interfaces, and responsive design are **critical for
 ### 💡 Importance of User-Friendly Design  
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction.  
 Clear navigation, intuitive interfaces, and responsive design are **critical for success**.
+
+### 🎨 Design Properties  
+
+#### Color Styles  
+- **Primary:** `#FF5A5F`  
+- **Secondary:** `#008489`  
+- **Background:** `#FFFFFF`  
+- **Text:** `#222222`  
+- **Secondary Text:** `#717171`  
+
+#### Typography  
+- **Primary Font:** Circular  
+- **Font Weights:**  
+  - Book (400)  
+  - Medium (500)  
+  - Bold (700)  
+- **Font Sizes:**  
+  - Body text: 14px–16px  
+  - Headings: 24px–32px  
+
+### 💡 Importance of Identifying Design Properties  
+Identifying **design properties** such as colors, typography, and spacing ensures that the entire application maintains **visual consistency**.  
+It also makes collaboration easier between **designers and developers**, reduces guesswork, and allows for a smoother **translation of mockups into code**.  
+In larger projects, a well-documented design system improves **scalability and maintainability** of the UI.
