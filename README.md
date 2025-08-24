@@ -112,7 +112,7 @@ A successful project requires clear definition of team roles and responsibilitie
 Each role plays a vital part in ensuring the project is delivered on time, meets quality standards, and provides a seamless experience for end users.
 
 
-## Planned Components
+## UI Component Patterns
 ### Navbar
 - Logo
 - Search bar
