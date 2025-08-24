@@ -18,7 +18,7 @@ Over time, I plan to expand it into a fullstack project with backend features.
 - **Database (planned):** MongoDB or PostgreSQL  
 - **Version Control:** Git & GitHub  
 - **Deployment:** Vercel or Netlify (frontend), Render (backend)
-
+ 
 ## UI/UX Design Planning  
 
 ### 🎯 Design Goals  
